@@ -56,7 +56,7 @@ You should restructure the headings below to match the order they appear in your
 ### 2.9. Spitters
 
 ### 2.10. Weapon Pickup (Gun)
-![weapon and gun](DocImages/Gun and Staff.JPG)
+[weapon and gun](DocImages/Gun and Staff.JPG)
 ### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
