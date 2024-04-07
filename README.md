@@ -41,7 +41,7 @@ You should restructure the headings below to match the order they appear in your
 ![This is the alt text for an image!](DocImages/AcidandSpike.png)
 
 ### 2.10 and 2.11 Weapon and Staff pickup
-![This is the alt text for an image!](DocImages/GunandStaff.png)
+![This is the alt text for an image!](DocImages/GunandStaff.JGP)
 ### 2.2. Checkpoints
 (DocImages/exampleimage.png)
 ### 2.3. Chompers
