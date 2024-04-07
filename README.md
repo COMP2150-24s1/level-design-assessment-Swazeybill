@@ -43,7 +43,7 @@ Exploration is also another key part of the players' experience. Exploration is 
 
 
 ## 3. Spatiotemporal Design
- 
+![This is the alt text for an image!](DocImages/MoleculeDiagram.PNG)
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
