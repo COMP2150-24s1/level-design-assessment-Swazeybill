@@ -45,25 +45,28 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.9 and 2.3 Spitter and Chomper
 ![This is the alt text for an image!](DocImages/ChomperandSpitter.JPG)
-### 2.2. Checkpoints
-(DocImages/exampleimage.png)
-### 2.3. Chompers
 
-### 2.4. Health Pickups
+### 2.5 and 2.2 and 2.4 Health Pickup, Key and Checkpoint
+![This is the alt text for an image!](DocImages/Checkpointhealthboxandkey.JPG)
 
-### 2.5. Keys
+
+
+
+
+
+
 
 ### 2.6. Moving Platforms
 
 ### 2.7. Passthrough Platforms
 
-### 2.8. Spikes
 
-### 2.9. Spitters
 
-### 2.10. Weapon Pickup (Gun)
 
-### 2.11. Weapon Pickup (Staff)
+
+
+
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
