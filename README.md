@@ -17,10 +17,10 @@ Drama is a significant aspect of the game played with the player's emotional str
 ![This is the alt text for an image!](DocImages/2.PNG)
 ### 1.3. Challenge
 Challenge is another key aspect of the game, which captivates the player and allows for the player to be entertained. Throughout the level, the difficulty becomes gradually harder, challenging the player more. By utilizing the aspect of challenge, the player is able to figure out strategy and different ways to play the game to get past these challenges. However, modulating the challenge so it is not too difficult is highly significant as the player still should be given hope. Moreover, by making the level progressively more challenging it allows the player to not give up straight away and persevere. By doing this i am allowing the player to stay in the flow channel and continue playing the game, in order to reach the end. A part of the level where challenge is shown is in the last section where the player must jump from a moving platform to a platform with multiple chompers which can hit the player off into acid. This challenge intrigues the player and allows them to use their problem-solving abilities to get past. 
-
+![This is the alt text for an image!](DocImages/3.PNG)
 ### 1.4. Exploration
 Exploration is also another key part of the players' experience. Exploration is used throughout the entirety of the level to engage the player and allow them to discover the levels at their own pace. The aesthetics and layout choices allow for players to explore as there are different elevations and distinct types of level structures. Through these unique level structures, it engages the player allowing them to explore and find the key in their own way. Moreover, the level has many different ways to be done giving the player numerous options on how they want to face the challenges. Exploration is seen in the second part of the level where the player has multiple separate ways to get down from the top level. By giving the player multiple different options, it allows them to choose their own way of playing the game.
-
+![This is the alt text for an image!](DocImages/4.PNG)
 ## 2. Core Gameplay (~400 words)
 
 ### 2.1 and 2.2 Acid and Spikes
