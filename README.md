@@ -82,9 +82,13 @@ Iterative design was a major factor in the creation of the game. Through iterati
 
 Section 1
 ![This is the alt text for an image!](DocImages/IterativedesignTutorialsection.JPG)
+
 Section 2
 ![This is the alt text for an image!](DocImages/IterativedesignSection2part1.JPG)
 ![This is the alt text for an image!](DocImages/Iterativedesignsection2part2.JPG)
+
+Section 3
+![This is the alt text for an image!](DocImages/Iterativedesignsection3part1.JPG)
 
 ## Generative AI Use Acknowledgement
 
