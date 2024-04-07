@@ -40,7 +40,7 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Acid and Spikes
 (DocImages/AcidandSpike.PNG)
 ### 2.2. Checkpoints
-
+(DocImages/exampleimage.png)
 ### 2.3. Chompers
 
 ### 2.4. Health Pickups
