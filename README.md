@@ -3,13 +3,6 @@
 ### Name: [Jason Yousif]
 ### Student number: [47906960] 
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
 
 Example:
 ![This is the alt text for an image!](DocImages/AcidandSpikes.jpg)
@@ -31,11 +24,6 @@ Challenge is another key aspect of the game, which captivates the player and all
 Exploration is also another key part of the players' experience. Exploration is used throughout the entirety of the level to engage the player and allow them to discover the levels at their own pace. The aesthetics and layout choices allow for players to explore as there are different elevations and distinct types of level structures. Through these unique level structures, it engages the player allowing them to explore and find the key in their own way. Moreover, the level has many different ways to be done giving the player numerous options on how they want to face the challenges. Exploration is seen in the second part of the level where the player has multiple separate ways to get down from the top level. By giving the player multiple different options, it allows them to choose their own way of playing the game.
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1 and 2.2 Acid and Spikes
 ![This is the alt text for an image!](DocImages/AcidandSpike.png)
@@ -57,9 +45,6 @@ You should restructure the headings below to match the order they appear in your
 
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 
@@ -93,24 +78,5 @@ Section 3
 ![This is the alt text for an image!](DocImages/BEANBEAN.JPG)
 ![This is the alt text for an image!](DocImages/Iterativedesignsection3part4.JPG)
 
-## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
 
 
