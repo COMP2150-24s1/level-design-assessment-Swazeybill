@@ -90,6 +90,7 @@ Section 2
 Section 3
 ![This is the alt text for an image!](DocImages/Iterativedesignsection3part1.JPG)
 ![This is the alt text for an image!](DocImages/Iterativedesignsection3part2.JPG)
+![This is the alt text for an image!](DocImages/Iterativedesignsection3part3.JPG)
 
 ## Generative AI Use Acknowledgement
 
