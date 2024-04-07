@@ -69,6 +69,7 @@ No additional words are necessary for this section (any words should only be wit
 ![This is the alt text for an image!](DocImages/Section1Part3.JPG)
 ### 3.3.	Level Map – Section 2
 ![This is the alt text for an image!](DocImages/Section2Part1.JPG)
+![This is the alt text for an image!](DocImages/Section2Part2.JPG)
 
 ### 3.4.	Level Map – Section 3
 
