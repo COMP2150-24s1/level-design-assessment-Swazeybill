@@ -38,7 +38,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid and Spikes
-![This is the alt text for an image!](DocImages/AcidandSpikes.jpg)
+![This is the alt text for an image!](DocImages/AcidandSpike.png)
 ### 2.2. Checkpoints
 (DocImages/exampleimage.png)
 ### 2.3. Chompers
