@@ -84,6 +84,7 @@ Section 1
 ![This is the alt text for an image!](DocImages/IterativedesignTutorialsection.JPG)
 Section 2
 ![This is the alt text for an image!](DocImages/IterativedesignSection2part1.JPG)
+![This is the alt text for an image!](DocImages/Iterativedesignsection2part2.JPG)
 
 ## Generative AI Use Acknowledgement
 
