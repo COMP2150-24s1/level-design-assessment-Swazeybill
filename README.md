@@ -49,20 +49,8 @@ You should restructure the headings below to match the order they appear in your
 ### 2.5 and 2.2 and 2.4 Health Pickup, Key and Checkpoint
 ![This is the alt text for an image!](DocImages/Checkpointhealthboxandkey.JPG)
 
-
-
-
-
-
-
-
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-
-
-
+### 2.6 and 2.7 Moving and Passthrough Platforms
+![This is the alt text for an image!](DocImages/MovingandPassthroughplatform.JPG)
 
 
 
