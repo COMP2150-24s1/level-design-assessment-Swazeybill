@@ -14,7 +14,7 @@ Your document must include images. To insert an image into your documentation, p
 Example:
 
 ![This is the alt text for an image!](DocImages/AcidandSpike.JPG)
-
+!(DocImages/exampleimage.png)
 ## 1. Player Experience (~700 words)
 
 
@@ -38,7 +38,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid and Spikes
-(DocImages/AcidandSpike.PNG)
+
 ### 2.2. Checkpoints
 (DocImages/exampleimage.png)
 ### 2.3. Chompers
