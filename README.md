@@ -42,6 +42,9 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.10 and 2.11 Weapon and Staff pickup
 ![This is the alt text for an image!](DocImages/GunandStaff.JPG)
+
+### 2.9 and 2.3 Spitter and Chomper
+![This is the alt text for an image!](DocImages/ChomperandSpitter.JPG)
 ### 2.2. Checkpoints
 (DocImages/exampleimage.png)
 ### 2.3. Chompers
