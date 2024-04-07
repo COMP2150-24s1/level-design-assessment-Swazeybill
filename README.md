@@ -13,8 +13,8 @@ Your document must include images. To insert an image into your documentation, p
 
 Example:
 
-![This is the alt text for an image!](DocImages/AcidandSpike.JPG)
-(DocImages/exampleimage.PNG)
+![This is the alt text for an image!](DocImages/exampleimage.PNG)
+
 ## 1. Player Experience (~700 words)
 
 
